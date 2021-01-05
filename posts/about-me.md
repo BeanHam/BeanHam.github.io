@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "About me"
-author: "Jordan Bryan"
+author: "Bin Han"
 categories: journal
 tags: [documentation,sample]
 image: longfellow.jpg
