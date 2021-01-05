@@ -1,46 +1,36 @@
-<html>
-  <div>
-    <h1 id="main">
-      Bin Han
-    </h1>
-    <p>
-      <img src = "https://github.com/BeanHam/BeanHam.github.io/blob/master/photo1.jpg", width = 200, id="duke">
-      Bin Han, PhD Candidate, Information Science.\\
-      University of Washington, Seattle, 98115, USA \\
-      bh193@uw.edu
-    </p>
-  </div>
-  
-  
-  <div>
-    <h2 id="self-intro">
-      About Me
-    </h2>
-    <p>
-      My name is Bin Han, a first-year PhD student studying Information Science at University of Washington with Prof. Bill Howe. 
-      I obtained two Bachelor's degrees in <a href = "http://www.stat.purdue.edu"> Applied Statistics</a> and 
-      <a href="https://krannert.purdue.edu/academics/Economics">Economics</a> at <b>Purdue University</b>. I completed my Master's 
-      degree in <a href = "https://stat.duke.edu/">Statistical Science</a> at <b>Duke University</b>. 
-    </p>
-  </div>
+---
+layout: default
+title: Home
+---
 
-  <div>
-    <h2 id="research">
-      Research
-    </h2>
-    <p>
-      I am interested in:
-    <ul>
-      <li>Interpretable Machine Learning Algorithm
-        <ul>
-          <li class="ML">Additive Model with Boosted Stumps -- Using XGBoost </li>
-          <li class="ML">Boosted Stumps with AdaBoost</li>
-          <li class="ML">RiskSLIM -- Risk Calibrated Supersparse Linear Integer Model (designed by Cynthia Rudin & Ustun Berk)</li>
-        </ul>
-      </li>
-      <li>Deep Learning</li>
-    </ul>
-    ,with their applications in solving social problems within medical area, criminal justic etc. Currently, I am doing research with <a href="https://users.cs.duke.edu/~cynthia"> Professor Cynthia Rudin </a> on Kentucky Recidivism Prediction Project funded by Arnold Fundation.
-    </p>
+{% for post in paginator.posts %}
+<div class="posts">
+  <h1>
+    <a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a>
+  </h1>
+  {% if post.image %}
+  <div class="thumbnail-container">
+    <a href="{{ site.github.url }}{{ post.url }}"><img src="{{ site.github.url }}/assets/img/{{ post.image }}"></a>
   </div>
-</html>
+  {% endif %}
+  <p>
+    {{ post.content | strip_html | truncate: 350 }} <a href="{{ site.github.url }}{{ post.url }}">Read more</a>
+    <span class="post-date"><i class="fa fa-calendar" aria-hidden="true"></i> {{ post.date | date_to_string }} - <i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</span>
+  </p>
+</div>
+{% endfor %}
+
+<!-- Pagination links -->
+<div class="pagination">
+  {% if paginator.next_page %}
+    <a class="pagination-button pagination-active" href="{{ site.github.url }}{{ paginator.next_page_path }}" class="next">{{ site.data.settings.pagination.previous_page }}</a>
+  {% else %}
+    <span class="pagination-button">{{ site.data.settings.pagination.previous_page }}</span>
+  {% endif %}
+
+  {% if paginator.previous_page %}
+    <a class="pagination-button pagination-active" href="{{ site.baseurl }}{{ paginator.previous_page_path }}">{{ site.data.settings.pagination.next_page }}</a>
+  {% else %}
+    <span class="pagination-button">{{ site.data.settings.pagination.next_page }}</span>
+  {% endif %}
+</div>
