@@ -5,7 +5,7 @@ title: Research
 
 ### Preprints
 
-- Wang, C, Han, B, Patel, B. et al. [In Pursuit of Interpretable, Fair and Accurate Machine Learning for Criminal Recidivism Prediction]. ArXiv:2005.04176, 2020. https://arxiv.org/abs/2005.04176
+- Wang, C, Han, B, Patel, B. et al. [In Pursuit of Interpretable, Fair and Accurate Machine Learning for Criminal Recidivism Prediction](https://arxiv.org/abs/2005.04176). ArXiv:2005.04176, 2020. https://arxiv.org/abs/2005.04176
 
 ### Publications
 
