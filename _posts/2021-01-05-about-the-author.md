@@ -4,6 +4,7 @@ title: "About me"
 author: "Bin Han"
 categories: journal
 tags: [documentation,sample]
+image: UW.jpg
 ---
 
 I am currently a first year PhD student in the [Department of Information Science](https://ischool.uw.edu/) at University of Washington, Seattle. I'm working with [Professor Bill Howe](https://faculty.washington.edu/billhowe/) and [Professor Chirag Shah](https://ischool.uw.edu/people/faculty/profile/chirags).
