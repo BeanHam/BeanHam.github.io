@@ -7,16 +7,11 @@ title: Teaching
 
 **2020:**
 
-STA 325 - Machine Learning and Data Mining
-
-STA 360/601 - Bayesian Inference and Modern Statistical Methods - Head TA
-
-**2019:** 
-
-STA 490/690 - History of (mostly) Bayesian Statistics - Research Assistant
-
-STA 360/601 - Bayesian Inference and Modern Statistical Methods - Head TA
+INFO 370 - Core Methods in Data Sciences, University of Washington
+STAT 199 - Introduction to Data Science and Statistical Thinking, Duke University
 
 **2018:** 
+STAT 101 - Data Analysis and Statistical Inference, Duke University
 
-STA 101 - Data Analysis and Statistical Inference - Head TA
+**2017:**
+ECON 252 - Macroeconomics, Purdue University
