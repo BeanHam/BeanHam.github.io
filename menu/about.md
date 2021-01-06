@@ -8,11 +8,15 @@ I am currently a first year PhD student in the [Department of Information Scienc
 ### Research
 
 Machine Learning
+
 Fairness
+
 Transfer Learning
 
 ### Education
 
 B.S. in Applied Statistics, Purdue University, 2018
+
 B.S. in Economics, Purdue University, 2018
+
 M.S. in Statistical Science, Duke University, 2020
