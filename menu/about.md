@@ -5,7 +5,7 @@ title: About
 
 I am currently a first year PhD student in the [Department of Information Science](https://stat.duke.edu) at University of Washington. I'm working Professor Bill Howe (https://faculty.washington.edu/billhowe/) and [Professor Chirag Shah](https://ischool.uw.edu/people/faculty/profile/chirags).
 
-### Research
+### Research Interests
 
 - Machine Learning
 - Fairness
