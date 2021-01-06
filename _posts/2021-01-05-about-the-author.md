@@ -13,4 +13,4 @@ Prior to coming to UW, I pursued two B.S. degrees in [Applied Statistics](https:
 
 In my spare time I enjoy reading Russian novels and short stories. I also like to play jazz drums. Some day, I hope to become a bassist and trumpet player as well.
 
-I enjoy music, working out, boxing, and snow skiing! 
+I enjoy music, working out, boxing, and snow skiing! (/assets/img/skiing.JPG)
