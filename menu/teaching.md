@@ -3,8 +3,6 @@ layout: page
 title: Teaching
 ---
 
-### Courses
-
 **2020:**
 
 - INFO 370 - Core Methods in Data Sciences, University of Washington
