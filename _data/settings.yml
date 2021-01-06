@@ -7,8 +7,8 @@ menu:
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'github', link: 'https://www.github.com/j-g-b'}
-- {icon: 'linkedin', link: 'https://www.linkedin.com/in/jordan-bryan-455920168/'}
+- {icon: 'github', link: 'https://github.com/BeanHam'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/bin-han-960703/'}
 
 # Customize site text
 pagination:
