@@ -9,7 +9,7 @@ I am currently a first year PhD student in the [Department of Information Scienc
 
 ### Research Interests
 
-- Machine Learning
+- Machine Learning/Deep Learning
 - Fairness
 - Transfer Learning
 
