@@ -4,7 +4,7 @@ title: "About me"
 author: "Bin Han"
 categories: journal
 tags: [documentation,sample]
-image: longfellow.jpg
+image: self.jpg
 ---
 
 
