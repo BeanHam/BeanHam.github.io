@@ -23,7 +23,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 title:		           'Bin Han'
 description:	       'personal website'
 author:              'Bin Han'
-avatar:              '/assets/img/selfie.jpg'
+image:              '/assets/img/selfie.jpg'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
