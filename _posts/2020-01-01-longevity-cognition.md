@@ -7,7 +7,7 @@ tags: [documentation, sample]
 image: UW.jpg
 ---
 
-##📖Synopsis of paper: [Han, B., Chen, H., Yao, Y. et al. Genetic and non-genetic factors associated with the phenotype of exceptional longevity & normal cognition. Sci Rep 10, 19140 (2020). https://doi.org/10.1038/s41598-020-75446-2](https://www.nature.com/articles/s41598-020-75446-2)##
+📖📖**Synopsis of paper: [Han, B., Chen, H., Yao, Y. et al. Genetic and non-genetic factors associated with the phenotype of exceptional longevity & normal cognition. Sci Rep 10, 19140 (2020). https://doi.org/10.1038/s41598-020-75446-2](https://www.nature.com/articles/s41598-020-75446-2)** 📖📖
 
 Cognitive Impairment (CI) is defned as the loss of ability in cognitive functions, such as remembering, learning, and concentrating, which negatively impacts afected individuals’ daily activities. In the stage of mild cognitive impairment (MCI), afected individuals start to experience memory issues without seriously hindering their abilities to execute daily activities. In the stage of severe cognitive impairment, which is referred as dementia, individuals tend to lose basic functionalities of comprehending, memorizing, or even talking and writing. Many diseases are associated with the development of CI, such as Alzheimer’s Disease (AD), Vascular Dementia, Parkinson’s Disease (PD), Progressive Supranuclear Palsy, and Lewy Body Disease.
 
