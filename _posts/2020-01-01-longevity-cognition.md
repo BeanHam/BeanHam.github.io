@@ -4,7 +4,7 @@ title: "Exceptional Longevity & Normal Cognition"
 author: "Bin Han"
 categories: journal
 tags: [documentation, sample]
-image: longevity-cognition.jpg
+image: cognition.jpg
 ---
 
 📖📖 **Paper Synopsis: [Genetic and non-genetic factors associated with the phenotype of exceptional longevity & normal cognition](https://www.nature.com/articles/s41598-020-75446-2)**
