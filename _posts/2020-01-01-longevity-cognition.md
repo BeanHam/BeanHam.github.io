@@ -7,7 +7,7 @@ tags: [documentation, sample]
 image: UW.jpg
 ---
 
-📖📖**Synopsis of Paper:**📖📖 
+📖📖**Synopsis of Paper**📖📖 
 
 [Genetic and non-genetic factors associated with the phenotype of exceptional longevity & normal cognition](https://www.nature.com/articles/s41598-020-75446-2)
 
