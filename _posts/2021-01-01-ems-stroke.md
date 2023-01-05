@@ -7,9 +7,7 @@ tags: [documentation, sample]
 image: ems-stroke.jpg
 ---
 
-**Paper Synopsis: [Socioeconomic Influence on Emergency Medical Services Utilization for Acute Stroke: Think Nationally, Act Locally](https://journals.sagepub.com/doi/full/10.1177/19418744211010049)**
-
-📖📖📖📖📖📖📖📖📖📖 📖📖📖📖📖📖📖📖📖📖📖📖📖📖
+📖📖 **Paper Synopsis: [Socioeconomic Influence on Emergency Medical Services Utilization for Acute Stroke: Think Nationally, Act Locally](https://journals.sagepub.com/doi/full/10.1177/19418744211010049)**
 
 **Background and Purpose:** Rates of emergency medical services (EMS) utilization for acute stroke remain low nationwide, despite the time-sensitive nature of the disease. Prior research suggests several demographic and social factors are associated with EMS use. We sought to evaluate which demographic or socioeconomic factors are associated with EMS utilization in our region, thereby informing future education efforts.
 
