@@ -17,8 +17,8 @@ image: recidivism.jpg
 
 **Conclusions:** Interpretable ML models can perform just as well as non-interpretable methods and currently-used risk assessment scales, in terms of both prediction accuracy and fairness. ML models might be more accurate when trained separately for distinct locations and kept up-to-date.
 
-
-`Abstract of Main Results for Criminal Justice Practitioner`
+----------------------------------------------------------------------------------------
+**Abstract of Main Results for Criminal Justice Practitioner**
 
 Our goal is to study the predictive performance, interpretability, and fairness of machine learning (ML) models for pretrial recidivism prediction. ML methods are known for their ability to automatically generate high-performance models that sometimes even surpass human performance from data alone. However, many of the most common ML approaches produce “black-box” models—models that perform well, but are too complicated for humans to understand. “Interpretable” ML techniques seek to produce the best of both worlds: models that perform as well as black-box approaches, but also are understandable to humans. In this study, we generate multiple black-box and interpretable ML models. We compare the predictive performance and fairness of the ML models we generate, against two models that are currently used in the justice system to predict pretrial recidivism—namely, the Risk of General Recidivism and Risk of Violent Recidivism scores from the COMPAS suite, and the New Criminal Activity and New Violent Criminal Activity scores from the Arnold Public Safety Assessment.
 
