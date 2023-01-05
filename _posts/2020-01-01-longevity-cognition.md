@@ -17,4 +17,4 @@ In our study, we split 2156 individuals from the Chinese Longitudinal Healthy Lo
 
 The GWAS identifed 28 signifcant SNPs at $p<3e10^{-5}$ signifcance level and we pinpointed four genes, *ESR1, PHB, RYR3, GRIK2*, that are associated with the phenotype though immunological systems, brain function, metabolic pathways, infammation and diet in the CLHLS cohort. Using both genetic and non-genetic factors, four machine learning models have close prediction results for the phenotype measured in Area Under the Curve: random forest (0.782), XGBoost (0.781), support vector machine with linear kernel (0.780), and ℓ2 penalized logistic regression (0.780). The top four important and congruent features in predicting the phenotype identifed by these four models are: polygenic risk score, sex, age, and education.
 
-*image source: https://www.medicalnewstoday.com/articles/320204
+*image source: https://www.shrmonitor.org/disinformation-and-human-cognition/
