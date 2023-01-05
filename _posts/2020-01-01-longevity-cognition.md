@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Genetic and Non‑genetic Factors Associated with the Phenotype of Exceptional Longevity & Normal Cognition"
+title: "Exceptional Longevity & Normal Cognition"
 author: "Bin Han"
 categories: journal
 tags: [documentation, sample]
@@ -8,8 +8,6 @@ image: UW.jpg
 ---
 
 Cognitive Impairment (CI) is defned as the loss of ability in cognitive functions, such as remembering, learning, and concentrating, which negatively impacts afected individuals’ daily activities. In the stage of mild cognitive impairment (MCI), afected individuals start to experience memory issues without seriously hindering their abilities to execute daily activities. In the stage of severe cognitive impairment, which is referred as dementia, individuals tend to lose basic functionalities of comprehending, memorizing, or even talking and writing. Many diseases are associated with the development of CI, such as Alzheimer’s Disease (AD), Vascular Dementia, Parkinson’s Disease (PD), Progressive Supranuclear Palsy, and Lewy Body Disease.
-
-Aging is one of the major risk factors for the development and onset of CI. As forecast in the world population aging report, the population aged 60 years or above is expected to grow by 56% between 2015 and 2030. By 2050, that population is projected to be 2.1 billion globally. Te increasing aging population size with correspondingly increasing prevalence of CI, imposes great burdens at the levels of individuals, families, and communities. Thus, it is vitally important to study factors that are associated with CI and to investigate potential therapeutic or lifestyle interventions, for the sake of improving the quality of life or delaying the onset of CI and reducing economic costs.
 
 There have been many previous studies on the pertinent factors associated with cognitive impairment. For example, using discovery and multiple replication cohorts, Davies et al. identifed several signifcant genetic loci that are associated with CI, such as rs2075650 and rs115566 located in TOMM40 and rs429358 located in the APOE region. Lv et al.10 probed the association between the rate of cognitive decline and the mortality rate. They concluded that faster cognitive decline rate is associated with higher mortality rate, specifcally among individuals aged between 65-79 years old and cognitively normal individuals, regardless of their initial cognitive abilities. With respect to the analysis on non-genetic factors, Casanova et al.11 constructed a random forest model to investigate important predictors for cognitive trajectories, identifying education, age, and gender, as top predictors. Many other studies have also analyzed the genetic and non-genetic contributors to CI in community-based cohorts.
 
