@@ -4,6 +4,7 @@ title: "Genetic and Non‑genetic Factors Associated with the Phenotype of Excep
 author: "Bin Han"
 categories: journal
 tags: [documentation, sample]
+image: UW.jpg
 ---
 
 Cognitive Impairment (CI) is defned as the loss of ability in cognitive functions, such as remembering, learning, and concentrating, which negatively impacts afected individuals’ daily activities. In the stage of mild cognitive impairment (MCI), afected individuals start to experience memory issues without seriously hindering their abilities to execute daily activities. In the stage of severe cognitive impairment, which is referred as dementia, individuals tend to lose basic functionalities of comprehending, memorizing, or even talking and writing. Many diseases are associated with the development of CI, such as Alzheimer’s Disease (AD), Vascular Dementia, Parkinson’s Disease (PD), Progressive Supranuclear Palsy, and Lewy Body Disease.
