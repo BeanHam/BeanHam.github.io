@@ -18,3 +18,5 @@ image: ems-stroke.jpg
 **Results:** EMS use was lower in patients who were younger, had higher income, were married, more educated and in those who identified as Hispanic. Those arriving by EMS had significantly faster arrival to code, arrival to imaging, and arrival to thrombolytic treatment times.
 
 **Conclusion:** Analysis of regional data can identify specific populations underutilizing EMS services for acute stroke symptoms. Factors effecting EMS utilization varies by region and this information may be useful for targeted education programs promoting EMS use for acute stroke symptoms. EMS use results in more rapid evaluation and treatment of stroke patients.
+
+*image source: https://www.tctmd.com/news/getting-stroke-patients-needing-endovascular-interventions-best-hospital-new-help-ems
