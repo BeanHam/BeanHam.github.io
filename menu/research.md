@@ -7,7 +7,7 @@ title: Research
 
 `Coming Up!`
 
-### Journal Papers
+### Conference/Journal Papers
 
 - Howe, B., Brown, J.M., **Han, B.** et al. [Integrative urban AI to expand coverage, access, and equity of urban data](https://link.springer.com/article/10.1140/epjs/s11734-022-00475-z#citeas). Eur. Phys. J. Spec. Top. 231, 1741–1752 (2022). https://doi.org/10.1140/epjs/s11734-022-00475-z
 
