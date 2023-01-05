@@ -4,7 +4,7 @@ title: "Integrative Urban AI to Expand Coverage, Access, and Equity of Urban Dat
 author: "Bin Han"
 categories: journal
 tags: [documentation, sample]
-image: integrative-urbanAI.jpg
+image: urbanAI.jpg
 ---
 
 📖📖 **Paper Synopsis: [Integrative urban AI to expand coverage, access, and equity of urban data](https://link.springer.com/article/10.1140/epjs/s11734-022-00475-z)**
