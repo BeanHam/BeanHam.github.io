@@ -4,7 +4,7 @@ title: "Adapting to Skew: Imputing Spatiotemporal Urban Data with 3D Partial Con
 author: "Bin Han"
 categories: journal
 tags: [documentation, sample]
-image: urban-inpainting.jpg
+image: urban-inpainting.png
 ---
 
 📖📖 **Paper Synopsis: [Adapting to Skew: Imputing Spatiotemporal Urban Data with 3D Partial Convolutions and Biased Masking](https://arxiv.org/abs/2301.04233)**
