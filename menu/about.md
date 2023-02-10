@@ -12,12 +12,13 @@ I am currently a third year PhD student in the [Department of Information Scienc
 
 - Urban Computing
 - Transfer Learning
-- Data Science
+- Data Science & Applications
 
 ### Education
 
-- M.S. in Statistical Science, Duke University, 2018-2020
-- B.S. in Applied Statistics, Purdue University, 2015-2018
-- B.S. in Economics, Purdue University, 2015-2018
+- PhD, Information Science, University of Washington, 2020-Present
+- M.S., Statistical Science, Duke University, 2018-2020
+- B.S., Applied Statistics, Purdue University, 2015-2018
+- B.S., Economics, Purdue University, 2015-2018
 
 I enjoy music, cross fit, **Olympic** weight lifting, and skiing!
