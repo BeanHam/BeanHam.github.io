@@ -1,0 +1,22 @@
+---
+layout: post
+title: "LeafAI: query generator for clinical cohort discovery rivaling a human programmer"
+author: "Bin Han"
+categories: journal
+tags: [documentation, sample]
+image: leafAI.jpg
+---
+
+📖📖 **Paper Synopsis: [LeafAI: query generator for clinical cohort discovery rivaling a human programmer](https://arxiv.org/pdf/2304.06203.pdf)**
+
+
+**Objective**: Identifying study-eligible patients within clinical databases is a critical step in clinical research. However, accurate query design typically requires extensive technical and biomedical expertise. We sought to create a system capable of generating data model-agnostic queries while also providing novel logical reasoning capabilities for complex clinical trial eligibility criteria.
+
+**Materials and Methods**: The task of query creation from eligibility criteria requires solving several textprocessing problems, including named entity recognition and relation extraction, sequence-to-sequence transformation, normalization, and reasoning. We incorporated hybrid deep learning and rule-based modules for these, as well as a knowledge base of the Unified Medical Language System (UMLS) and linked ontologies. To enable data-model agnostic query creation, we introduce a novel method for tagging database schema elements using UMLS concepts. To evaluate our system, called LeafAI, we compared the capability of LeafAI to a human database programmer to identify patients who had been enrolled in 8 clinical trials conducted at our institution. We measured performance by the number of actual enrolled patients matched by generated queries.
+
+**Results**: LeafAI matched a mean 43% of enrolled patients with 27,225 eligible across 8 clinical trials, compared to 27% matched and 14,587 eligible in queries by a human database programmer. The human programmer spent 26 total hours crafting queries compared to several minutes by LeafAI.
+
+**Conclusions**: Our work contributes a state-of-the-art data model-agnostic query generation system capable of conditional reasoning using a knowledge base. We demonstrate that LeafAI can rival a human programmer in finding patients eligible for clinical trials.
+
+**Keywords**: clinical trials, natural language processing, machine learning, electronic health records, cohort definition
+
