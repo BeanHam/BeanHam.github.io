@@ -18,5 +18,5 @@ title: Research
 - **Han, B.**, Shah, C., Saelid, D. (2021). [Users’ Perception of Search-Engine Biases and Satisfaction.](https://doi.org/10.1007/978-3-030-78818-6_3) In: Boratto, L., Faralli, S., Marras, M., Stilo, G. (eds) Advances in Bias and Fairness in Information Retrieval. BIAS 2021. Communications in Computer and Information Science, vol 1418. Springer, Cham. 
 
 - Ehrlich, E.M., **Han, B.**, Lutz, M. et al. [Socioeconomic Influence on Emergency Medical Services Utilization for Acute Stroke: Think Nationally, Act Locally](https://journals.sagepub.com/doi/abs/10.1177/19418744211010049). The Neurohospitalist. April 2021. doi:10.1177/19418744211010049
-- 
+
 - **Han, B.**, Chen, H., Yao, Y. et al. [Genetic and non-genetic factors associated with the phenotype of exceptional longevity & normal cognition](https://www.nature.com/articles/s41598-020-75446-2). Sci Rep 10, 19140 (2020).
