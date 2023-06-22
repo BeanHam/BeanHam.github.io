@@ -13,6 +13,7 @@ Prior to UW, I pursued two B.S. degrees in Applied Statistics and Economics at P
 ### Research Interests
 
 - Urban Computing
+- Synthetic Data
 - Transfer Learning
 - Data Science & Applications
 
