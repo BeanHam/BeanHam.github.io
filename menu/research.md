@@ -4,6 +4,7 @@ title: Research
 ---
 
 ### Preprints
+- Kaushik Ramachandran, G., Fu Y., **Han, B**, ... Yetisgen, M. (2023). [Prompt-based Extraction of Social Determinants of Health Using Few-shot Learning](doi:10.48550/arXiv.2306.07170)
 
 - Dobbins, N. J., **Han, B.**, Zhou, W., Lan, K., Kim, H. N., Harrington, R., ... & Yetisgen, M. (2023). [LeafAI: query generator for clinical cohort discovery rivaling a human programmer.](https://arxiv.org/pdf/2304.06203.pdf)
 
