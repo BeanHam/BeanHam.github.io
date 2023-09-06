@@ -14,7 +14,7 @@ Clinical Dialogues with Transformers](https://www.dei.unipd.it/~faggioli/temp/CL
 
 - Dobbins, N. J., **Han, B.**, Zhou, W., Lan, K., Kim, H. N., Harrington, R., ... & Yetisgen, M. [LeafAI: query generator for clinical cohort discovery rivaling a human programmer.](https://doi.org/10.1093/jamia/ocad149). Journal of the American Medical Informatics Association (2023).
 
-- aushik Ramachandran, G., Fu Y., **Han, B**, ... Yetisgen, M. [Prompt-based Extraction of Social Determinants of Health Using Few-shot Learning.](https://aclanthology.org/2023.clinicalnlp-1.41/) In Proceedings of the 5th Clinical Natural Language Processing Workshop, pages 385–393, Toronto, Canada. Association for Computational Linguistics (2023). 
+- Kaushik Ramachandran, G., Fu Y., **Han, B**, ... Yetisgen, M. [Prompt-based Extraction of Social Determinants of Health Using Few-shot Learning.](https://aclanthology.org/2023.clinicalnlp-1.41/) In Proceedings of the 5th Clinical Natural Language Processing Workshop, pages 385–393, Toronto, Canada. Association for Computational Linguistics (2023). 
 
 - Howe, B., Brown, J.M., **Han, B.** et al. [Integrative urban AI to expand coverage, access, and equity of urban data](https://link.springer.com/article/10.1140/epjs/s11734-022-00475-z#citeas). Eur. Phys. J. Spec. Top. 231, 1741–1752 (2022).
 
