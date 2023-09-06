@@ -5,7 +5,9 @@ title: Research
 
 ### Preprints
 
-- **Han, B.**, & Howe, B. (2023). [Adapting to Skew: Imputing Spatiotemporal Urban Data with 3D Partial Convolutions and Biased Masking.](https://arxiv.org/abs/2301.04233)
+- **Han, B.**, & Howe, B. (2023). [Urban Spatiotemporal Data Synthesis via Neural Disaggregation](https://arxiv.org/pdf/2306.07292.pdf).
+
+- **Han, B.**, & Howe, B. (2023). [Adapting to Skew: Imputing Spatiotemporal Urban Data with 3D Partial Convolutions and Biased Masking](https://arxiv.org/abs/2301.04233).
 
 ### Conference/Journal Papers
 
