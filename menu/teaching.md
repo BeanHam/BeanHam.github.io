@@ -9,7 +9,7 @@ title: Teaching
 - INFO 370 - Core Methods in Data Sciences, University of Washington
 - INFO 371 - Advanced Methods in Data Sciences, University of Washington
 
-**prior - 2020:**
+**prior 2020:**
 
 - INFO 370 - Core Methods in Data Sciences, University of Washington
 - STAT 199 - Introduction to Data Science and Statistical Thinking, Duke University
