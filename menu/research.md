@@ -12,7 +12,7 @@ title: Research
 
 - Wolfe, R., Slaughter, I., **Han, B.**, Wen, B., Yang, Y., Rosenblatt, L., ... & Howe, B. (2024). [Laboratory-Scale AI: Open-Weight Models are Competitive with ChatGPT Even in Low-Resource Settings](https://dl.acm.org/doi/pdf/10.1145/3630106.3658966). In The 2024 ACM Conference on Fairness, Accountability, and Transparency (pp. 1199-1210).
 
-- Xu, W., Jiang, X., Desai, J., **Han, B.**, Yan, F., & Iannacci, F. (2023). [KDSTM: Neural Semi-supervised Topic Modeling with Knowledge Distillation](arXiv preprint arXiv:2307.01878)
+- Xu, W., Jiang, X., Desai, J., **Han, B.**, Yan, F., & Iannacci, F. (2023). [KDSTM: Neural Semi-supervised Topic Modeling with Knowledge Distillation](https://arxiv.org/pdf/2307.01878)
 
 - Rosenblatt, L., **Han, B.**, Posthumus, E., Crimmins, T., & Howe, B. (2023). [Top-down Green-ups: Satellite Sensing and Deep Models to Predict Buffelgrass Phenology](https://arxiv.org/abs/2310.00740). NeurIPS 2023 Workshop on Tackling Climate Change with Machine Learning: Blending New and Existing Knowledge Systems
 
