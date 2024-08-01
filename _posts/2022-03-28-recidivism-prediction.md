@@ -4,7 +4,6 @@ title: "Interpretable, Fair, and Accurate Recidivism Prediction"
 author: "Bin Han"
 categories: journal
 tags: [documentation, sample]
-image: recidivism.jpg
 ---
 
 📖📖 **Paper Synopsis: [In Pursuit of Interpretable, Fair and Accurate Machine Learning for Criminal Recidivism Prediction](https://link.springer.com/article/10.1007/s10940-022-09545-w)**
@@ -30,5 +29,3 @@ Our findings and contributions can be summarized as follows:
 - We find that recidivism prediction models that are constructed using data from one location do not tend to perform as well when they are used to predict recidivism in another location, leading us to conclude that models should be constructed on data from the location where they are meant to be used, and updated periodically over time.
 
 - We reviewed the recent literature on algorithmic fairness, but most of the fairness criteria don’t pertain to risk scores, they pertain only to yes/no classification decisions. Since we are interested in criminal justice risk scores in this work, the vast majority of the algorithmic fairness criteria are not relevant. We chose to focus on the evaluation criteria that were relevant, namely calibration and balanced group AUC (BG-AUC). We present an analysis of these fairness measures for two of the interpretable models (RiskSLIM and Explainable Boosting Machine) and the Arnold Public Safety Assessment (New Criminal Activity score) on the two-year general recidivism outcome in Kentucky. We found that the fairness criteria were approximately met for both interpretable models for blacks/whites and males/females—that is, the models were fair according to these criteria. The Arnold Public Safety Assessment’s New Criminal Activity score failed to satisfy calibration for higher values of the score. The results on fairness were not as consistent for the “Other” race category. It is difficult to interpret the fairness result for the “Other” race category, due to low-resolution race data.
-
-*image source: https://nj1015.com/how-njs-recidivism-rate-compares-to-the-rest-of-the-country/
