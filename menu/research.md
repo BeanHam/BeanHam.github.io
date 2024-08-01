@@ -5,11 +5,18 @@ title: Research
 
 ### Preprints
 
-- **Han, B.**, & Howe, B. (2023). [Urban Spatiotemporal Data Synthesis via Neural Disaggregation](https://arxiv.org/pdf/2306.07292.pdf).
+- **Han, B.**, & Howe, B. (2023). [Gated Recurrent Unit with Spatial Attention for Spatio-Temporal Disaggregation](https://arxiv.org/pdf/2306.07292.pdf). 
 
-- **Han, B.**, & Howe, B. (2023). [Adapting to Skew: Imputing Spatiotemporal Urban Data with 3D Partial Convolutions and Biased Masking](https://arxiv.org/abs/2301.04233).
 
 ### Conference/Journal Papers
+
+- Wolfe, R., Slaughter, I., **Han, B.**, Wen, B., Yang, Y., Rosenblatt, L., ... & Howe, B. (2024, June). [Laboratory-Scale AI: Open-Weight Models are Competitive with ChatGPT Even in Low-Resource Settings](https://dl.acm.org/doi/pdf/10.1145/3630106.3658966). In The 2024 ACM Conference on Fairness, Accountability, and Transparency (pp. 1199-1210).
+
+- Xu, W., Jiang, X., Desai, J., **Han, B.**, Yan, F., & Iannacci, F. (2023). [KDSTM: Neural Semi-supervised Topic Modeling with Knowledge Distillation](arXiv preprint arXiv:2307.01878)
+
+- Rosenblatt, L., **Han, B.**, Posthumus, E., Crimmins, T., & Howe, B. (2023). [Top-down Green-ups: Satellite Sensing and Deep Models to Predict Buffelgrass Phenology](https://arxiv.org/abs/2310.00740). NeurIPS 2023 Workshop on Tackling Climate Change with Machine Learning: Blending New and Existing Knowledge Systems
+
+- **Han, B.**, & Howe, B. (2023). [Adapting to Skew: Imputing Spatiotemporal Urban Data with 3D Partial Convolutions and Biased Masking](https://scholarspace.manoa.hawaii.edu/items/2087e85a-f95b-49af-b9a0-8302494a6e55).
 
 - **Han, B.**, Zhu, H., Zhou S., Ahmed, S., Rahman, M. M., Xia, F., Lybarger, K. [HuskyScribe at MEDIQA-Sum 2023: Summarizing
 Clinical Dialogues with Transformers](https://www.dei.unipd.it/~faggioli/temp/CLEF2023-proceedings/paper-124.pdf). Conference and Labs of the Evaluation Forum (2023).
