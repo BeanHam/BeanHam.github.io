@@ -4,7 +4,6 @@ title: "Exceptional Longevity & Normal Cognition"
 author: "Bin Han"
 categories: journal
 tags: [documentation, sample]
-image: cognition.jpg
 ---
 
 📖📖 **Paper Synopsis: [Genetic and non-genetic factors associated with the phenotype of exceptional longevity & normal cognition](https://www.nature.com/articles/s41598-020-75446-2)**
@@ -16,5 +15,3 @@ There have been previous studies on the pertinent factors associated with cognit
 In our study, we split 2156 individuals from the Chinese Longitudinal Healthy Longevity Survey (CLHLS) data into two groups, establishing a phenotype of exceptional longevity & normal cognition versus cognitive impairment. We conducted a genome-wide association study (GWAS) to identify signifcant genetic variants and biological pathways that are associated with cognitive impairment and used these results to construct polygenic risk scores. We elucidated the important and robust factors, both genetic and non-genetic, in predicting the phenotype, using several machine learning models.
 
 The GWAS identifed 28 signifcant SNPs at $p<3e10^{-5}$ signifcance level and we pinpointed four genes, *ESR1, PHB, RYR3, GRIK2*, that are associated with the phenotype though immunological systems, brain function, metabolic pathways, infammation and diet in the CLHLS cohort. Using both genetic and non-genetic factors, four machine learning models have close prediction results for the phenotype measured in Area Under the Curve: random forest (0.782), XGBoost (0.781), support vector machine with linear kernel (0.780), and ℓ2 penalized logistic regression (0.780). The top four important and congruent features in predicting the phenotype identifed by these four models are: polygenic risk score, sex, age, and education.
-
-*image source: https://www.shrmonitor.org/disinformation-and-human-cognition/
