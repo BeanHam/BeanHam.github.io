@@ -4,7 +4,6 @@ title: "Integrative Urban AI to Expand Coverage, Access, and Equity of Urban Dat
 author: "Bin Han"
 categories: journal
 tags: [documentation, sample]
-image: urbanAI.jpg
 ---
 
 📖📖 **Paper Synopsis: [Integrative urban AI to expand coverage, access, and equity of urban data](https://link.springer.com/article/10.1140/epjs/s11734-022-00475-z)**
@@ -20,5 +19,3 @@ Topics include:
 -  Hierarchical multi-label classification
 
 -  Modeling governance behaviors
-
-*image source: https://taubmancollege.umich.edu/urbanplanning/degrees/graduate-certificate-urban-informatics
