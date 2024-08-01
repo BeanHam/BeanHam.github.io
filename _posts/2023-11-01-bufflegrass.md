@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HuskyScribe at MEDIQA-Sum 2023: Summarizing Clinical Dialogues with Transformers"
+title: "Top-down Green-ups: Satellite Sensing and Deep Models to Predict Buffelgrass Phenology"
 author: "Bin Han"
 categories: journal
 tags: [documentation, sample]
