@@ -16,7 +16,7 @@ title: Research
 
 - Rosenblatt, L., **Han, B.**, Posthumus, E., Crimmins, T., & Howe, B. (2023). [Top-down Green-ups: Satellite Sensing and Deep Models to Predict Buffelgrass Phenology](https://arxiv.org/abs/2310.00740). NeurIPS 2023 Workshop on Tackling Climate Change with Machine Learning: Blending New and Existing Knowledge Systems
 
-- **Han, B.**, & Howe, B. (2023). [Adapting to Skew: Imputing Spatiotemporal Urban Data with 3D Partial Convolutions and Biased Masking](https://scholarspace.manoa.hawaii.edu/items/2087e85a-f95b-49af-b9a0-8302494a6e55).
+- **Han, B.**, & Howe, B. (2023). [Adapting to Skew: Imputing Spatiotemporal Urban Data with 3D Partial Convolutions and Biased Masking](https://scholarspace.manoa.hawaii.edu/items/2087e85a-f95b-49af-b9a0-8302494a6e55), HICSS.
 
 - **Han, B.**, Zhu, H., Zhou S., Ahmed, S., Rahman, M. M., Xia, F., Lybarger, K. [HuskyScribe at MEDIQA-Sum 2023: Summarizing
 Clinical Dialogues with Transformers](https://www.dei.unipd.it/~faggioli/temp/CLEF2023-proceedings/paper-124.pdf). Conference and Labs of the Evaluation Forum (2023).
