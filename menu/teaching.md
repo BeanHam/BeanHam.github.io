@@ -3,9 +3,8 @@ layout: page
 title: Teaching
 ---
 
-**2020 - 2023:**
+**2020 - 2025:**
 
-- INFO 370 - Core Methods in Data Sciences, University of Washington
 - INFO 370 - Core Methods in Data Sciences, University of Washington
 - INFO 371 - Advanced Methods in Data Sciences, University of Washington
 
