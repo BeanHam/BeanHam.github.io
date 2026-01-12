@@ -3,14 +3,26 @@ layout: page
 title: Research
 ---
 
-### Preprints
-
-- **Han, B.**, & Howe, B. (2023). [Gated Recurrent Unit with Spatial Attention for Spatio-Temporal Disaggregation](https://arxiv.org/pdf/2306.07292.pdf). 
-
-
 ### Conference/Journal Papers
+- [**COLM, 2025**] **Han, B.**, Wolfe, R., Caspi, A., & Howe, B. (2025). [Can Large Language Models Integrate Spatial Data? Empirical Insights into Reasoning Strengths and Computational Weaknesses](arXiv preprint arXiv:2508.05009).
 
-- Wolfe, R., Slaughter, I., **Han, B.**, Wen, B., Yang, Y., Rosenblatt, L., ... & Howe, B. (2024). [Laboratory-Scale AI: Open-Weight Models are Competitive with ChatGPT Even in Low-Resource Settings](https://dl.acm.org/doi/pdf/10.1145/3630106.3658966). In The 2024 ACM Conference on Fairness, Accountability, and Transparency (pp. 1199-1210).
+- [**ACL, 2025**] Xu, C., Wen, B., **Han, B.**, Wolfe, R., Wang, L. L., & Howe, B. (2025). [Do Language Models Mirror Human Confidence? Exploring Psychological Insights to Address Overconfidence in LLMs](arXiv preprint arXiv:2506.00582).
+
+- Yao, J., Hu, Y., Yi, Y., **Han, B.**, Feng, S., Yang, G., ... & Zhu, B. (2025). [MMMG: a Comprehensive and Reliable Evaluation Suite for Multitask Multimodal Generation](arXiv preprint arXiv:2505.17613).
+
+- [**ICML, 2025**] Rosenblatt, L., **Bin, H.**, Wolfe, R., & Howe, B. [Fragments to Facts: Partial-Information Fragment Inference from LLMs](https://arxiv.org/pdf/2505.13819). In Forty-second International Conference on Machine Learning.
+
+- [**WWWW, 2025**] **Bin Han**, Sean T. Yang, and Christopher LuVogt. 2025. [Cross-Lingual Text Classification with Large Language Models](https://dl.acm.org/doi/abs/10.1145/3701716.3715567). In Companion Proceedings of the ACM on Web Conference 2025 (WWW '25). Association for Computing Machinery, New York, NY, USA, 1005–1008. https://doi.org/10.1145/3701716.3715567
+
+- Fu, Y., **Bin, H.**, Zhou, T., Wang, M., Chen, Y., Lai, Z. G. D. C., ... & Hiniker, A. (2024). [Creativity in the Age of AI: Evaluating the Impact of Generative AI on Design Outputs and Designers' Creative Thinking](arXiv preprint arXiv:2411.00168).
+
+- Wen, B., Xu, C., Wolfe, R., Wang, L. L., & Howe, B. (2024, October). [Mitigating overconfidence in large language models: A behavioral lens on confidence estimation and calibration](https://openreview.net/pdf?id=y9UdO5cmHs). In NeurIPS 2024 Workshop on Behavioral Machine Learning.
+
+- [**SIGSpatial, 2024**] **Bin Han**, Yiwei Yang, Anat Caspi, and Bill Howe. 2024. [Towards Zero-Shot Annotation of the Built Environment with Vision-Language Models](https://dl.acm.org/doi/10.1145/3678717.3691296). In Proceedings of the 32nd ACM International Conference on Advances in Geographic Information Systems (SIGSPATIAL '24). Association for Computing Machinery, New York, NY, USA, 601–604. https://doi.org/10.1145/3678717.3691296
+
+- [**SIGSpatial, 2024**] **Han, B.**, & Howe, B. (2024, October). [SARN: Structurally-Aware Recurrent Network for Spatio-Temporal Disaggregation](https://dl.acm.org/doi/pdf/10.1145/3678717.3691295). In Proceedings of the 32nd ACM International Conference on Advances in Geographic Information Systems (pp. 338-349).
+
+- [**FAccT, 2024**] Wolfe, R., Slaughter, I., **Han, B.**, Wen, B., Yang, Y., Rosenblatt, L., ... & Howe, B. (2024). [Laboratory-Scale AI: Open-Weight Models are Competitive with ChatGPT Even in Low-Resource Settings](https://dl.acm.org/doi/pdf/10.1145/3630106.3658966). In The 2024 ACM Conference on Fairness, Accountability, and Transparency (pp. 1199-1210).
 
 - Xu, W., Jiang, X., Desai, J., **Han, B.**, Yan, F., & Iannacci, F. (2023). [KDSTM: Neural Semi-supervised Topic Modeling with Knowledge Distillation](https://arxiv.org/pdf/2307.01878)
 
