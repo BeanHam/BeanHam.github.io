@@ -8,7 +8,7 @@ title: Research
 
 - [**ACL, 2025**] Xu, C., Wen, B., **Han, B.**, Wolfe, R., Wang, L. L., & Howe, B. (2025). [Do Language Models Mirror Human Confidence? Exploring Psychological Insights to Address Overconfidence in LLMs](arXiv preprint arXiv:2506.00582).
 
-- [**In Submission**]Yao, J., Hu, Y., Yi, Y., **Han, B.**, Feng, S., Yang, G., ... & Zhu, B. (2025). [MMMG: a Comprehensive and Reliable Evaluation Suite for Multitask Multimodal Generation](arXiv preprint arXiv:2505.17613).
+- [**In Submission to ICLR, 2026**] Yao, J., Hu, Y., Yi, Y., **Han, B.**, Feng, S., Yang, G., ... & Zhu, B. (2025). [MMMG: a Comprehensive and Reliable Evaluation Suite for Multitask Multimodal Generation](arXiv preprint arXiv:2505.17613).
 
 - [**ICML, 2025**] Rosenblatt, L., **Bin, H.**, Wolfe, R., & Howe, B. [Fragments to Facts: Partial-Information Fragment Inference from LLMs](https://arxiv.org/pdf/2505.13819). In Forty-second International Conference on Machine Learning.
 
